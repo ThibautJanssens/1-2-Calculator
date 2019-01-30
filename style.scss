@@ -7,4 +7,27 @@
 /*
   If you need some CSS for any reason you can put it here.
 */
+#ButtonDivide{
+  margin-left: 150px;
+  position:absolute;
+  width: 50px;
+  height: 50px;
+}
 
+#ButtonMultiply{
+  margin-left: 100px;
+  position:absolute;
+}
+
+#ButtonMinus{
+  margin-left: 50px;
+  position:absolute;
+}
+
+#ButtonPlus{
+  position:absolute;
+}
+
+#Result{
+  margin-top: 50px;
+}
